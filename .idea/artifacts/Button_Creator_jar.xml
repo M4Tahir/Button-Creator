@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact name="Button Creator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Button_Creator_jar</output-path>
+    <root id="root">
+      <element id="archive" name="Button Creator.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$USER_HOME$/Desktop/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="Button Creator" />
+      </element>
+    </root>
+  </artifact>
+</component>
